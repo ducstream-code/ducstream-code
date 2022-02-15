@@ -2,7 +2,7 @@
 
 ### Currently a Student at [ESGI][esgi] Paris !
 
-- Future Pen-tester
+- Future informaticien
 
 ### You can find me here:
 
