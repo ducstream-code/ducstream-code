@@ -83,8 +83,6 @@
 <br />
 
 
-###### Inspiration [dynamored]
-
 [esgi]: https://www.esgi.fr
 [github]: https://github.com/ducstream-code
 [instagram]: https://instagram.com/aurelienkrf
