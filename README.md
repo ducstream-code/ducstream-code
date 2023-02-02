@@ -66,22 +66,10 @@
 
 <img align="left" alt="Metasploit" title="Metasploit" width="32px" src="https://atomrace.com/blog/wp-content/uploads/2017/10/metasploit-logo.png" />
 
-<img align="left" alt="Legion" title="Legion" width="32px" src="https://www.kali.org/tools/legion/images/legion-logo.svg" />
-
-  <img align="left" alt="Dirb" title="Dirb" width="32px" src="https://www.kali.org/tools/dirb/images/dirb-logo.svg" />
-
-  <img align="left" alt="Armiage" title="Armitage" width="32px" src="https://www.kali.org/tools/armitage/images/armitage-logo.svg" />
-  
-  <img align="left" alt="John" title="John" width="32px" src="https://www.kali.org/tools/john/images/john-logo.svg" />
-
-  <img align="left" alt="SQLMap" title="SQLMap" width="32px" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" />
-
-</div><br><br>
 
 
 
-
-<img align="left" alt="ImLilDev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ducstream-code&show_icons=true&theme=default&hide_border=true" />
+<img align="left" alt="Iducv's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ducstream-code&show_icons=true&theme=default&hide_border=true" />
 
 <!-- <img align="left" alt="ImLilDev's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImLilDev&langs_count=10&hide_border=true&theme=vue-dark&show_icons=true" /> -->
 
