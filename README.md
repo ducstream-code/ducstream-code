@@ -11,7 +11,7 @@
 <!-- [<img align="left" alt="" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 
 [<img align="left" alt="ducstream | Discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="ducstream | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 [<img align="left" alt="ducstream | Linkdin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -85,6 +85,5 @@
 
 [esgi]: https://www.esgi.fr
 [github]: https://github.com/ducstream-code
-[instagram]: https://instagram.com/aurelienkrf
 [discord]: https://discord.com/users/187218828965576704
 [linkedin]: https://www.linkedin.com/in/aurelien-krief/
