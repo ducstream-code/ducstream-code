@@ -2,8 +2,6 @@
 
 ### Currently a Student at [ESGI][esgi] Paris !
 
-- Future informaticien
-
 ### You can find me here:
 
 <!-- [<img align="left" alt="site.com" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
